@@ -11,19 +11,17 @@
   - Bob verifies Alice’s signature using her ECC public key certificate.
 - **Certificate Validation**: Integrated X.509 certificate validation with OpenSSL to ensure both parties use keys issued by a trusted CA.
 - **Data Integrity**: Introduced mechanism where if ciphertext is altered, Bob’s signature verification will fail.
+- **ReadMe**: Update README file
 
-
-## [0.1.0] - 2025-09-03
-
-### Added
-- **ReadMe**: Update README file 
-
-## [0.1.1] - 2025-09-17
+## [v0.1.0]
 
 ### Added
-- **LICENSE**: Created LICENSE file to define project licensing terms.
-- **.gitignore**: Added `.gitignore` to exclude unnecessary files from version control.
-- **README.md**: Updated README file with project overview and setup instructions.
+- Add PROGRESSLOG
+
+### Updated
+- Update CHANGELOG  
+- Update README  
+
 
 
 

@@ -1,5 +1,13 @@
 # Secure Image Encryption, Decryption, and Signature Verification
 
+**Timeline:** 03 Feb 2024 - 04 March 2024   
+**Role:** Security Analyst (Academic Project)    
+**Type of Project:** Secure file transfer with cryptography  
+**Location:** Huddersfield(UK)   
+**Outcome:** Secure file transfer protocol implemented with **hybrid encryption**, **digital signature**, and full **certificate validation**. Ensures end-to-end **confidentiality**, **authenticity**, and **integrity** between sender and receiver.
+
+---
+
 This repository demonstrates an **end-to-end secure communication workflow** between Alice and Bob:
 - **Alice encrypts a confidential image** using hybrid encryption (AES + RSA), signs it using ECC + SHA3-512, and validates Bob’s certificate.
 - **Bob decrypts the image**, validates Alice’s certificate, and verifies her digital signature to ensure data integrity.
@@ -87,3 +95,7 @@ This repository demonstrates an **end-to-end secure communication workflow** bet
    ```bash
    python bob/decrypt.py
    ```
+
+---
+## Timeline  
+ - See [Progress Log](PROGRESSLOG.md) for timeline and technical breakdown.
