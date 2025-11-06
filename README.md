@@ -1,3 +1,11 @@
+**Timeline:** 01 Feb 2024 - 28 Feb 2024   
+**Role:** Security Analyst       
+**Type of Project:** Security Analysis (Academic Project)   
+**Location:** Huddersfield(UK)   
+**Outcome:** Secure Image Encryption, Decryption, and Signature Verification between two users  
+
+---
+
 # Secure Image Encryption, Decryption, and Signature Verification
 
 This repository demonstrates an **end-to-end secure communication workflow** between Alice and Bob:
